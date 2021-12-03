@@ -4,5 +4,6 @@
 
 | Day | What | Part 1 comment | Part 2 comment |
 |-----|----------------|----------------|----------------|
-| 1   | Submarine depth calculations | *none* | *none* |
-| 2   | Submarine position commands | *none* | *none* |
+| 1   | Sonar Sweep | *none* | *none* |
+| 2   | Dive! | *none* | *none* |
+| 2   | Binary Diagnostic | *none* | *none* |
