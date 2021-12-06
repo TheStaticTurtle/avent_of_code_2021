@@ -6,4 +6,7 @@
 |-----|----------------|----------------|----------------|
 | 1   | Sonar Sweep | *none* | *none* |
 | 2   | Dive! | *none* | *none* |
-| 2   | Binary Diagnostic | *none* | *none* |
+| 3   | Binary Diagnostic | *none* | *none* |
+| 4   | Giant Squid | *none* | *none* |
+| 5   | Hydrothermal Venture | *none* | Go to hell diagonals |
+| 6   | Lanternfish  | *none* | Had to re-think in order to make it fastly computable |
