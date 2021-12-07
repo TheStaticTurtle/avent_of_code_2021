@@ -10,3 +10,4 @@
 | 4   | Giant Squid | *none* | *none* |
 | 5   | Hydrothermal Venture | *none* | Go to hell diagonals |
 | 6   | Lanternfish  | *none* | Had to re-think in order to make it fastly computable |
+| 7   | The Treachery of Whales  | Use `do` with the median | Proabaly a math function do determine the best position. Don't care bruteforce FTW |
