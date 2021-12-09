@@ -14,7 +14,7 @@
 | 6   | Lanternfish  | *none* | Had to re-think in order to make it fastly computable |
 | 7   | The Treachery of Whales  | Use `do` with the median | Proabaly a math function do determine the best position. Don't care bruteforce FTW |
 | 8   | Seven Segment Search  | *none* | *none* |
-| 9   | *TBD*  | *none* | *none* |
+| 9   | Smoke Basin  | *none* | Little bit slow could be faster, profiling says it spends too often in Point.\_\_eq\_\_ but hey it works |
 | 10  | *TBD*  | *none* | *none* |
 | 11  | *TBD*  | *none* | *none* |
 | 12  | *TBD*  | *none* | *none* |
