@@ -16,9 +16,9 @@
 | 8   | Seven Segment Search  | *none* | *none* |
 | 9   | Smoke Basin  | *none* | Little bit slow could be faster, profiling says it spends too often in Point.\_\_eq\_\_ but hey it works |
 | 10  | Syntax Scoring | Way overkill IMO | <--
-| 11  | *TBD*  | *none* | *none* |
-| 12  | *TBD*  | *none* | *none* |
-| 13  | *TBD*  | *none* | *none* |
+| 11  | Dumbo Octopus  | *none* | *none* |
+| 12  | Passage Pathing  | *none* | *none* |
+| 13  | Transparent Origami  | *none* | *none* |
 | 14  | *TBD*  | *none* | *none* |
 | 15  | *TBD*  | *none* | *none* |
 | 16  | *TBD*  | *none* | *none* |
