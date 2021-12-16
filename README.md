@@ -19,9 +19,9 @@
 | 11  | Dumbo Octopus  | *none* | *none* |
 | 12  | Passage Pathing  | *none* | *none* |
 | 13  | Transparent Origami  | *none* | *none* |
-| 14  | *TBD*  | *none* | *none* |
-| 15  | *TBD*  | *none* | *none* |
-| 16  | *TBD*  | *none* | *none* |
+| 14  | Extended Polymerization | *none* | *none* |
+| 15  | Chiton  | *none* | *none* |
+| 16  | Packet Decoder | Pretty cool | *none* |
 | 17  | *TBD*  | *none* | *none* |
 | 18  | *TBD*  | *none* | *none* |
 | 19  | *TBD*  | *none* | *none* |

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71518f89-3c72-410a-9cfe-5898034105bd" name="Default Changelist" comment="Day15">
-      <change afterPath="$PROJECT_DIR$/day15/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\Tugler\Documents\AventOfCode2021\day6" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.day15">
+  <component name="RunManager" selected="Python.day16">
     <configuration name="day1" type="PythonConfigurationType" factoryName="Python">
       <module name="AventOfCode2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -687,6 +687,7 @@
       <workItem from="1638430194620" duration="43644000" />
       <workItem from="1639040014498" duration="1270000" />
       <workItem from="1639379544988" duration="26527000" />
+      <workItem from="1639638788103" duration="6893000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1">
       <created>1638431222611</created>
@@ -793,7 +794,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639477207730</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Day15">
+      <created>1639576226846</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639576226846</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -832,6 +840,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AventOfCode2021$day7.coverage" NAME="day7 Coverage Results" MODIFIED="1638863714685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7/" />
+    <SUITE FILE_PATH="coverage/AventOfCode2021$day16.coverage" NAME="day16 Coverage Results" MODIFIED="1639648612276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day13.coverage" NAME="day13 Coverage Results" MODIFIED="1639391083791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$main2.coverage" NAME="day14_2 Coverage Results" MODIFIED="1639477182913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14/" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day4.coverage" NAME="day4 Coverage Results" MODIFIED="1638862974388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
@@ -843,7 +852,7 @@
     <SUITE FILE_PATH="coverage/AventOfCode2021$day8.coverage" NAME="day8 Coverage Results" MODIFIED="1638957073780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day11.coverage" NAME="day11 Coverage Results" MODIFIED="1639382725524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day2.coverage" NAME="day2 Coverage Results" MODIFIED="1638431813416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
-    <SUITE FILE_PATH="coverage/AventOfCode2021$day15.coverage" NAME="day15 Coverage Results" MODIFIED="1639575261403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
+    <SUITE FILE_PATH="coverage/AventOfCode2021$day15.coverage" NAME="day15 Coverage Results" MODIFIED="1639639029154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day6.coverage" NAME="day6 Coverage Results" MODIFIED="1638790751447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$day12.coverage" NAME="day12 Coverage Results" MODIFIED="1639388028496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12" />
     <SUITE FILE_PATH="coverage/AventOfCode2021$Main.coverage" NAME="Main Coverage Results" MODIFIED="1639129480292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
